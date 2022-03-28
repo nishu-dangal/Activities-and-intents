@@ -1,0 +1,11 @@
+<resources>
+<string name="app_name">IntentHomework</string>
+<string name="button_label_toast">Say Hello!</string>
+<string name="button_label_count">Count</string>
+<string name="count_initial_value">0</string>
+<string name="toast_message">Hello Toast!</string>
+<string name="second_intent">Second Intent</string>
+<string name="hello_text">Hello text</string>
+<string name="textnumber">textnumber</string>
+<string name="hello">Hello!!</string>
+</resources>
